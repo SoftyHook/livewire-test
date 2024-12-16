@@ -1,0 +1,1 @@
+<span class="{{ $class }}" role="{{ $role }}"></span>
